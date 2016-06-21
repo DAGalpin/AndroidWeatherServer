@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SunshineServer</string>
+    <string name="sunshine_server">Sunshine Weather Server Available</string>
+    <string name="control_text">This app creates a simple web server.  You can connect Sunshine to it by pointing the app at localhost:8080.</string>
+    <string name="btn_stop_server">Stop Server</string>
+    <string name="btn_start_server">Start Server</string>
+    <string name="btn_clear_log">Clear Log</string>
+    <string name="radio_return_error">Return Error</string>
+    <string name="radio_return_random">Return Random</string>
+    <string name="radio_return_static">Return Static</string>
+    <string name="status_weather_server_started">Weather Server Started</string>
+    <string name="status_weather_server_stopped">Weather Server Stopped</string>
+</resources>
